@@ -1,0 +1,17 @@
+{
+    "name": "Cloud Zeta",
+    "short_name": "Zeta",
+    "description": "Intelligent 3D Workspace",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2E98EA",
+    "theme_color": "#2E98EA",
+    "icons": [
+      {
+        "src": "/icons/zeta-imprint-maskable.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+}
