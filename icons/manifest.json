@@ -8,7 +8,7 @@
     "theme_color": "#2E98EA",
     "icons": [
       {
-        "src": "/icons/zeta-imprint-maskable.png",
+        "src": "/icons/zeta-imprint-maskable-gradient.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
