@@ -4,8 +4,8 @@
     "description": "Intelligent 3D Workspace",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#2E98EA",
-    "theme_color": "#2E98EA",
+    "background_color": "#000000",
+    "theme_color": "#CA8A04",
     "icons": [
       {
         "src": "/icons/zeta-imprint-maskable-gradient.png",
